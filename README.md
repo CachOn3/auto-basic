@@ -109,3 +109,4 @@ Pueden ir colaborando con cursos de Udemy o de cualquier plataforma.
 -------------------------------------------------------------------
 **Cursos:**
 - Programación para testers: https://infocorp.udemy.com/course/programacion-para-testers-todo-lo-que-necesitas-saber/
+- Fundamentos de Programación: https://infocorp.udemy.com/course/fundamentos-de-la-programacion/
