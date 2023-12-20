@@ -7,7 +7,7 @@ CSS o Cascading Style Sheets es el lenguaje utilizado para diseñar el front-end
 
 JavaScript le permite agregar interactividad a sus páginas. Es posible que haya visto ejemplos comunes en los sitios web: controles deslizantes, interacciones de clic, ventanas emergentes, etc.
 
-Videos para conocer un poco màs a fondo lo mencionado anteriormente, no es necesario poner en pràctica estos conocimientos, utilizar este material para mejorar el conocimeinto acerca de la GUI (Graphical User Interface).
+Videos para conocer un poco más a fondo lo mencionado anteriormente, no es necesario poner en práctica esto, utilizar este material para mejorar el conocimiento acerca de la GUI (Graphical User Interface).
 
 - HTML Basico : https://www.youtube.com/watch?v=MJkdaVFHrto
 
@@ -24,7 +24,7 @@ Videos para conocer un poco màs a fondo lo mencionado anteriormente, no es nece
 
 Podríamos comenzar a dar los primeros pasos si se animan, lo primero sería buscar un IDE o un editor para comenzar a programar, instalar el JDK y realizar las configuraciones necesarias. Les dejo unos videos que les puede servir para trabajar con VSCODE.
 https://www.youtube.com/watch?v=tWN601sU9PM
-Siguiendo los pasos del video anteror, creen un proyecto para prácticas y comiencen con estas primeras lecciones:
+Siguiendo los pasos del video anterior, creen un proyecto para prácticas y comiencen con estas primeras lecciones:
 
 Lección 1: Hola Mundo en Java
 -----------------------------
@@ -108,5 +108,4 @@ Ejercicios de Práctica:
 Pueden ir colaborando con cursos de Udemy o de cualquier plataforma.
 -------------------------------------------------------------------
 **Cursos:**
-
-
+- Programación para testers: https://infocorp.udemy.com/course/programacion-para-testers-todo-lo-que-necesitas-saber/
